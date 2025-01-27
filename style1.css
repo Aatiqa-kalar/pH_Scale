@@ -1,0 +1,59 @@
+*{
+    padding: 5px;
+    margin: 0px;
+    
+}
+p{
+    color: white;
+    font-size: 30px;
+}
+h1{
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.fir{
+    background-color: rgb(4, 82, 251);
+}
+.sec{
+    background-color:  rgb(43, 100, 222);
+}
+.thir{
+    background-color: rgb(78, 122, 218);
+}
+.four{
+    background-color: rgb(105, 146, 236);
+}
+.fif{
+    background-color: rgb(115, 155, 240);
+}
+.six{
+    background-color: rgb(129, 164, 241)   
+}
+.sev{
+    background-color: rgb(147, 180, 250)   
+}
+.eig{
+   background-color: green;
+}
+.nin{
+    background-color: rgb(245, 92, 117);
+}
+.ten{
+    background-color: rgb(247, 102, 126);
+}
+.elev{
+    background-color: rgb(249, 114, 137);
+}
+.twelv{
+    background-color: rgb(248, 124, 144);
+}
+.thirt{
+    background-color: rgb(252, 139, 158);
+}
+.fourt{
+    background-color: rgb(250, 149, 166);
+}
+.fifth{
+    background-color: rgb(250, 149, 166);
+}
